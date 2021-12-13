@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "INews - a quick news search",
+  "description": "Get news from all over the world in a matter of second. Developer:joshuadaniel.me",
+  "version": "0.1",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": { "128": "icon-128.png" },
+  "permission": ["activeTab"]
+}
